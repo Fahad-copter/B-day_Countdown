@@ -8,7 +8,7 @@ function getDifferenceInMs(date1, date2) {
 //recurion here is giving "Uncaught RangeError: Maximum call stack size exceeded"
 function setTime(){
     const date1 = new Date();//cur date and time by default
-    const date2 = new Date('2/19/2022');//my birth date
+    const date2 = new Date('2/19/2023');//my birth date
     //console.log(getDifferenceInMs(date1, date2));
 
     //For Days
